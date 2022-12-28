@@ -1,0 +1,8 @@
+                      kartikey and shiv project 
+ hospital management app 
+features
+1)departments - where is the paitent admited 
+2)empolyee - empolyees in the hospital
+3)patient id - patients in the hospital
+4)appointments - to bok an appointment
+5)payroll - payroll of the employees
