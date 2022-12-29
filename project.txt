@@ -1,8 +1,18 @@
                       kartikey and shiv project 
- hospital management app 
+ hospital management app
+
+this is a system for a hospital which will help the hospital staff to maintain a record of employees ,patients, there departments,staffs payroll ,and a medicine store for the convinience 
+
+ 
 features
-1)departments - where is the paitent admited 
-2)empolyee - empolyees in the hospital
-3)patient id - patients in the hospital
-4)appointments - to bok an appointment
-5)payroll - payroll of the employees
+1)email verification - verifying email of users
+2)signup / login - sign up and login page for users
+3)departments - where is the paitent admited 
+4)patient id - patients in the hospital
+5)appointments - to book an appointment
+6)payroll - payroll of the employees
+7)medicine store - store for medicines
+8)dashboard - dashboard for all the details
+9)add the doctors - adding new doctors
+10)add patients - adding new patients
+11)empolyee - empolyees in the hospital( to maintain an id for all the hospital staff )
